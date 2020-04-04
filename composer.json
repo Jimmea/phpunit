@@ -1,0 +1,21 @@
+{
+    "name": "hungokata/phpunit",
+    "description": "example code phpunit in php",
+    "authors": [
+        {
+            "name": "hungitc",
+            "email": "hungitc.hubt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "moon/artisan": "^1.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
